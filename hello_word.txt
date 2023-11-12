@@ -1,6 +1,1 @@
-class Holas:
-    def hello_word(self):
-        print("holas")
-
-    def _hello_word(self):
-        print("hola2")
+b'gAAAAABlUQACytzv3ln7xOeCREWRUoIB1CMbZ0okoF_8bjhIyTgaraUYbCTrU8f5pw2ST8wKUt-sH5u5UjaAXDns1tFN2ERVj3-9KZEqEEX0Gi5G7bs84CgjZqP0EpltEIN5EVOW3RQ8ZjW8aeLU-6UstfJOEbgAIdOOlMOVFU7Sl5b8bg76YSDrSbXwSwOYOJ-BNMajF_CBY8G1be_l7Aix8byOx1i3tK7zDrO--tcXSJhyp8hxelg='
