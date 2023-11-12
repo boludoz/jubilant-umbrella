@@ -1,2 +1,5 @@
 def hello_word():
     print("holas")
+
+def _hello_word():
+    print("hola2")
