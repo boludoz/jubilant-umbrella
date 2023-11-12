@@ -1,5 +1,6 @@
-def hello_word():
-    print("holas")
+class Holas:
+    def hello_word(self):
+        print("holas")
 
-def _hello_word():
-    print("hola2")
+    def _hello_word(self):
+        print("hola2")
